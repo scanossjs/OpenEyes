@@ -4,7 +4,6 @@
  * This file should be removed when the application is deployed for production.
  */
 // Test 2
-// Test 3
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../yii-1.1.5.r2654/framework/yii.php';
 $config=dirname(__FILE__).'/protected/config/test.php';
