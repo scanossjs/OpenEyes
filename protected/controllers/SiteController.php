@@ -7,6 +7,7 @@ class SiteController extends Controller
 	 */
 	public function actions()
 	{
+		// TEST
 		return array(
 			// captcha action renders the CAPTCHA image displayed on the contact page
 			'captcha'=>array(
